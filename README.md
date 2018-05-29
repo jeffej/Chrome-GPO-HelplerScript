@@ -9,14 +9,14 @@ This is helper script only, please use and modify for your particular needs.
 To Install create a folder C:\Scripts, 
 Download the powershell the file into C:\Scripts
 
-### Prerequisites
+## Prerequisites
 
 In order to run this script, you will need a windows powershell 5.1 or greater
 
 You will also need admin rights to run the script and so the copy commands will install the templates into the protected Policy Definitions folder.  
 
 
-###Run the Script
+## Run the Script
 
 Open powershell command (be sure to elevate permissions, right click run as administrator)
 Once you change directory into the C:\Scripts, you can use the tab key, to type out the script
@@ -24,6 +24,4 @@ Once you change directory into the C:\Scripts, you can use the tab key, to type 
 ```
 cd c:\Scripts
 & ‘.\Install Google GPO ADMX.ps1’
-```
-
 ```
