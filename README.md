@@ -1,5 +1,5 @@
 # Chrome-GPO-HelplerScript
-The purpose of this helper script is to assist Windows IT admins with a powershell script to help automate the install and updates of Google's Chrome GPO templates.  The GPO templates fetch and installed in this script include, Chrome Enterprise Browser, Google Update, and Google Chrome Legacy browser support.  Chrome AD GPO is also included in this script, but is a separate GPO for Chromebook devices joined to AD.
+The purpose of this helper script is to assist Windows IT admins with a powershell script to help automate the install and updates of Google's Chrome GPO templates.  The GPO templates fetch and installed in this script include, Chrome Enterprise Browser, Google Update, and Google Chrome Legacy browser support.  Chrome AD GPO is also included in this script, but is a separate GPO for Chrome OS and Chromebook devices joined to AD.
 
 This script is has been tested on Windows 2012 and 2016 running Active Directory services.
 This is helper script only, please use and modify for your particular needs. 
